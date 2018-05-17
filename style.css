@@ -1,0 +1,41 @@
+@charset="UTF-8";
+
+body
+{
+	background-color: #606060;
+	width: 100%;
+}
+div#interface
+{
+	background-color: #ffffff;
+	width: 90%;
+	left: 5%;
+	position: absolute;
+}
+div#form
+{
+	margin-bottom: 0.5%;
+	margin-top: 0.5%;
+	left: 0.5%;
+	position: relative;
+	background-color: #c1c1c1;
+	width: 200px;
+	padding: 10px; 
+}
+
+.submit input
+{
+	margin-left: 0px;
+	width: 100px;
+	height: 40px;
+	background-color: #133141;
+	color: #fff;
+	border-radius: 2px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+.table
+{
+	position: relative;
+}
